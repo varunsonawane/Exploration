@@ -1,2 +1,2 @@
 # Exploration
-Exploring the git
+Exploring the git now
